@@ -16,28 +16,27 @@ These are the technologies I use most often, but I'm always eager to learn new t
 
 ### 🧑‍💻 Languages
 
-- JavaScript
-- TypeScript
-- Python
-- Dart
-- PHP
+- ![javascript](assets/icons/javascript.png) JavaScript
+- ![javascript](assets/icons/typescript.png) TypeScript
+- ![python](assets/icons/python.png) Python
+- ![dart](assets/icons/dart.png) Dart
+- ![php](assets/icons/php.png) PHP
 
-### Frontend
+### Frontend Frameworks
 
-- ![vue](assets/icons/vue@0.06x.png){height=16} Vue
-- Nuxt
-- Astro
-- Tailwind CSS
+- ![vue](assets/icons/vue.png) Vue
+- ![nuxt](assets/icons/nuxt.png) Nuxt
+- ![astro](assets/icons/astro.png) Astro
 
-### Backend
+### Backend Frameworks
 
-- Express
-- NestJS
-- FastAPI
-- Laravel
+- ![express](assets/icons/express.png) Express
+- ![nest](assets/icons/nest.png) NestJS
+- ![fastapi](assets/icons/fastapi.png) FastAPI
+- ![laravel](assets/icons/laravel.png) Laravel
 
 ### Mobile
 
-- Flutter
+- ![flutter](assets/icons/flutter.png) Flutter
 
 > For full list of technologies, check out the skills section of my [portfolio](https://www.linkedin.com/in/salvador-caceres/).
