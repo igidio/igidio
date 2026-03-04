@@ -24,7 +24,7 @@ These are the technologies I use most often, but I'm always eager to learn new t
 
 ### Frontend
 
-- ![vue](assets/icons/vue.png){:height="16px" width="16px"} Vue
+- ![vue](assets/icons/vue@0.06x.png){height=16} Vue
 - Nuxt
 - Astro
 - Tailwind CSS
