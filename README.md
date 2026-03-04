@@ -1,6 +1,6 @@
 ![cover](assets/cover.png)
 
-# Hi, I'am Salvador Cáceres 🖐️
+# Hi, I am Salvador Cáceres 🖐️
 
 Welcome! I'm a passionate software developer focused on creating efficient and scalable solutions, with experience in web and mobile application development. I enjoy working on projects that are truly useful to people.
 
@@ -10,7 +10,7 @@ Welcome! I'm a passionate software developer focused on creating efficient and s
 - **🏗️ Fan of clean architecture:** Separation of duties, maintainable code.
 - **🤝 Open to work:**: Available for freelance projects or full-time positions.
 
-## My main stack
+## Skills
 
 These are the technologies I use most often, but I'm always eager to learn new tools and frameworks to expand my skill set.
 
@@ -22,21 +22,30 @@ These are the technologies I use most often, but I'm always eager to learn new t
 - ![dart](assets/icons/dart.png) Dart
 - ![php](assets/icons/php.png) PHP
 
-### Frontend Frameworks
+### 🖼️ Frontend Frameworks
 
 - ![vue](assets/icons/vue.png) Vue
 - ![nuxt](assets/icons/nuxt.png) Nuxt
 - ![astro](assets/icons/astro.png) Astro
 
-### Backend Frameworks
+### ⚙️ Backend Frameworks
 
 - ![express](assets/icons/express.png) Express
 - ![nest](assets/icons/nest.png) NestJS
 - ![fastapi](assets/icons/fastapi.png) FastAPI
 - ![laravel](assets/icons/laravel.png) Laravel
 
-### Mobile
+### 📱 Mobile
 
 - ![flutter](assets/icons/flutter.png) Flutter
 
 > For full list of technologies, check out the skills section of my [portfolio](https://www.linkedin.com/in/salvador-caceres/).
+
+## Projects
+
+- [Vecinadmin](https://github.com/stars/igidio/lists/vecinadmin) Community management system for residential areas.
+- [CódigoNovel](https://codigonovel.netlify.app/) Programming notes blog.
+- [Seedlinker](https://github.com/stars/igidio/lists/seedlinker) All-in-one platform for greenhouse IoT management.
+- [EMPLEAME](https://github.com/stars/igidio/lists/empleame) Job board and candidate management platform.
+- [BDI](https://github.com/stars/igidio/lists/bdi) Cemetery space management system.
+- [Vue COCOMO](https://vue-cocomo.igidio.dev/) Web application to estimate projects using the COCOMO model.
