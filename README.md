@@ -39,7 +39,7 @@ These are the technologies I use most often, but I'm always eager to learn new t
 
 - ![flutter](assets/icons/flutter.png) Flutter
 
-> For full list of technologies, check out the skills section of my [portfolio](https://www.linkedin.com/in/salvador-caceres/).
+> For full list of technologies, check out the skills section of my [portfolio](https://igid.io).
 
 ## Projects
 
